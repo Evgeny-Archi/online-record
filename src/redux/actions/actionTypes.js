@@ -1,0 +1,13 @@
+// Cities
+export const SET_CITIES_FROM_DATA = 'SET_CITIES_FROM_DATA'
+export const SET_LOADING_CITY = 'SET_LOADING_CITY'
+export const SET_CITY_ERROR = 'SET_CITY_ERROR'
+// Dates
+export const SET_DATES_FROM_DATA = 'SET_DATES_FROM_DATA'
+export const SET_LOADING_DATE = 'SET_LOADING_DATE'
+export const SET_DATE_ERROR = 'SET_DATE_ERROR'
+// From
+export const SET_FORM_VALID = 'SET_FORM_VALID'
+export const CHANGE_VALUE = 'CHANGE_VALUE'
+export const RESET_FORM = 'RESET_FORM'
+export const SET_LOADING_FORM = 'SET_LOADING_FORM'
